@@ -1,4 +1,4 @@
-<h1 align="center">CONVERSOR DE MOEDAS</h1>
+<h1 align="center">SIGN IN</h1>
 
 <p>O projeto tem o objetivo de uma landing page de login e cadastro. Além disso, é um projeto previamente responsivo, ou seja, adapta-se tanto para desktops quanto para smartphones e tablets.</p>
 
